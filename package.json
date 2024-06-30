@@ -11,7 +11,7 @@
 		"url": "https://SharpIce.top"
 	},
 	"engines": {
-		"node": ">=18"
+		"node": ">=16"
 	},
 	"scripts": {
 		"clean": "rimraf build",
